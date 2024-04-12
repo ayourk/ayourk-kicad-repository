@@ -1,2 +1,2 @@
-# bouni-kicad-repository
-A repositiory for my KiCAD addons
+# ayourk-kicad-repository
+A repositiory for KiCAD addons
